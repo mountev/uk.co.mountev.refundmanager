@@ -1,7 +1,7 @@
 <?php
 
 require_once 'refundmanager.civix.php';
-//use CRM_Refundmanager_ExtensionUtil as E;
+use CRM_Refundmanager_ExtensionUtil as E;
 use CRM_Refundmanager_CreditNote as CN;
 
 /**
